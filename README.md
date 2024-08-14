@@ -6,7 +6,7 @@
 
 ![Counter](https://komarev.com/ghpvc/?username=tawachan)
 
-[![Twitter:](https://img.shields.io/twitter/follow/tawachan?style=social)](https://twitter.com/tawachan)
+[![Twitter:](https://img.shields.io/twitter/follow/tawachan39?style=social)](https://twitter.com/tawachan39)
 
 <a href="https://zenn.dev/tawachan/articles">
  <img src="https://zenn.badge.nikaera.com/s/tawachan/articles?style=flat" alt="tawachan articles" />
